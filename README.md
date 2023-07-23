@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Mustafaalmheimid
-- 👀 I’m interested in ...
 - 🌱  As a third-year student, I've been diving deep into various areas of computer science, including algorithms, data structures, web development, and software engineering.
 -  I enjoy tackling challenges and solving problems with elegant code.
 
@@ -14,6 +13,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (+96179182648)
 
+Happy coding! 😄
 <!---
 Mustafaalmheimid/Mustafaalmheimid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
